@@ -1,2 +1,2 @@
 # FaraGit
-This is for WeCloudData project
+WeCloudData project
